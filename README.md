@@ -2,10 +2,6 @@
 
 This is a simple React Native Todo List app created using Expo. The app allows you to create and delete todo lists by clicking on a plus button.
 
-## Demo
-You can try out the app online using Expo Snack. Click on the following link to access the live demo:
-
-[React Todo List App - Expo Snack](https://snack.expo.dev/@tpipuig/todolist-expo-react-native)
 ## Usage
 Follow these steps to create and delete todo lists:
 1. On the main screen, you will see a "Plus" button. Tap on it to create a new todo list.
