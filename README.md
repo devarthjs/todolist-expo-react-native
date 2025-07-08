@@ -16,7 +16,7 @@ Follow these steps to create and delete todo lists:
 Clone the project
 
 ```bash
-  git clone git@github.com:pipuig/todolist-expo-react-native.git
+  git clone https://github.com/devarthjs/todolist-expo-react-native.git
 ```
 
 Go to the project directory
